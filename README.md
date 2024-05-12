@@ -23,3 +23,6 @@
 
 
 ![Screenshot (427)](https://github.com/apoorvapai/Complaint_Management_System/assets/53962427/1ab3cbc4-1d4c-476f-b8f8-e0f710382acb)
+
+
+![Screenshot (428)](https://github.com/apoorvapai/Complaint_Management_System/assets/53962427/21fab9ee-c222-4945-a701-42a05c5c6ff5)
